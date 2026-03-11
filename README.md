@@ -62,7 +62,7 @@ file to `~/.spotify_nvim_tokens.json`. You only need to do this once.
 With [lazy.nvim](https://github.com/folke/lazy.nvim):
 ```lua
 {
-  'AaravB23/spotui.nvim',
+  'AaravB23/spotui-nvim',
   config = function()
     require('spotui').setup({
       position = 'bottom-left',
