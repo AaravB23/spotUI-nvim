@@ -116,7 +116,7 @@ highlights = {
 
 Any valid Neovim highlight group works here. Run `:Telescope highlights` or
 `:highlight` to browse what's available in your current theme.
-```
+
 
 ## How it works
 
